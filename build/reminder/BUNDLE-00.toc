@@ -1,3 +1,0 @@
-([('reminder',
-   '/Users/yotokim/Documents/GitHub/eyestrain-reducer/dist/reminder',
-   'EXECUTABLE')],)
