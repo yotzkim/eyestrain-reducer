@@ -1,0 +1,5 @@
+{
+    "time_between_reminders": 20, 
+    "reminder_message": "Look at something 20 feet away for 20 seconds!",
+    "reminder_duration": 10000
+}
